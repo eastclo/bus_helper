@@ -44,3 +44,7 @@
 |메인|OBDE|OCR|TTS|
 |---|---|---|---|
 |방인규|김동운|손태균|김하연|
+
+## 논문
+EEECS670
+https://github.com/eastclo/Test/files/7112996/EEECS.2021.Program.v1.tentative.pdf
